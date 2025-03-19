@@ -3,3 +3,4 @@ export const letters: string[] = [
     'K', 'L', 'M', 'N', 'Ñ', 'O', 'P', 'Q', 'R', 'S',
     'T', 'U', 'V', 'W', 'X', 'Y', 'Z'
 ];
+console.log(letters);
